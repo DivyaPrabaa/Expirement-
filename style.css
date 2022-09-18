@@ -1,0 +1,289 @@
+#bg
+{
+  background-color: darkgoldenrod;    
+}
+.button
+{
+    background-color: red;
+    color:darkkhaki;
+    padding: 20px;
+    text-align: center;
+    
+}
+#mar
+{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
+#h1
+{
+    text-align: center;
+    text-decoration: underline;
+}
+#tab1
+{
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#66fcf1;
+}
+#one
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 75px;
+    width:100%;
+    background-color: black;
+    font-size: 23px;
+    color: white;
+}
+#two
+{
+    top: 20%;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+    width:25%;
+    background-color: brown;    
+    float: left;  
+}
+#three
+{
+    top: 20%;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+    width:50%;
+    background-color:bisque;
+    float: left;
+}
+#four
+{
+    top: 20%;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+    width:25%;
+    background-color: brown;
+    float: left;
+}
+
+#five
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+    width:100%;   
+    background-color: burlywood;
+    font-size: 23px;
+}
+a:visited 
+{
+    color: yellowgreen;
+}
+a:hover 
+{
+    color: darkviolet;
+}  
+a:active 
+{
+    color: green;
+}
+#r
+{
+    clear:both
+}
+#c
+{
+    width: 50%;
+    float: left;
+}
+#list
+{
+    display: none;
+}
+#list:target
+{
+    display: block;
+}
+#table
+{
+    display: none;
+}
+#table:target
+{
+    display: block;
+}
+#hotspot
+{
+    display: none;
+}
+#hotspot:target
+{
+    display: block;
+}
+#audio
+{
+    text-align :center;
+    display: none;
+}
+#audio:target
+{
+    display: block;
+}
+#video
+{
+    display: none;
+}
+#video:target
+{
+    display: block;
+}
+#form
+{
+    display: none;
+}
+#form:target
+{
+    display: block;
+}
+#mercury
+{
+    display: none;
+}
+#mercury:target
+{
+    display: block;
+}
+#lit
+{
+    display: none;
+}
+#lit:target
+{
+    display: block;
+}
+#olt
+{
+    display: none;
+}
+#olt:target
+{
+    display: block;
+}
+#ult
+{
+    display: none;
+}
+#ult:target
+{
+    display: block;
+}
+#dlt
+{
+    display: none;
+}
+#dlt:target
+{
+    display: block;
+}
+#dtt
+{
+    display: none;
+}
+#dtt:target
+{
+    display: block;
+}
+#tablet
+{
+    display: none;
+}
+#tablet:target
+{
+    display: block;
+}
+#trt
+{
+    display: none;
+}
+#trt:target
+{
+    display: block;
+}
+#tdt
+{
+    display: none;
+}
+#tdt:target
+{
+    display: block;
+}
+#ddt
+{
+    display: none;
+}
+#ddt:target
+{
+    display: block;
+}
+#tht
+{
+    display: none;
+}
+#tht:target
+{
+    display: block;
+}
+#imgt
+{
+    display: none;
+}
+#imgt:target
+{
+    display: block;
+}
+#mapt
+{
+    display: none;
+}
+#mapt:target
+{
+    display: block;
+}
+#areat
+{
+    display: none;
+}
+#areat:target
+{
+    display: block;
+}
+#audiot
+{
+    display: none;
+}
+#audiot:target
+{
+    display: block;
+}
+#videot
+{
+    display: none;
+}
+#videot:target
+{
+    display: block;
+}
+#tab1
+{
+    margin:0px;
+    border:0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#td1,#td2,#td3,#td4,#td5,#td6,#td7,#td8,#td9,#td10,#td11,#td12,#td13,#td14,#td15,#td16
+{
+    margin: 0px;
+    border: 0px;
+}
